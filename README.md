@@ -170,7 +170,8 @@ cv2.destoryAllWindows()
 ### x) Merge RGB Image
 ![](output10.jpeg)
 
-
+### xi) Split HSV Image and xii) Merge HSV Image
+![](output11.jpeg)
 
 ## RESULT:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
